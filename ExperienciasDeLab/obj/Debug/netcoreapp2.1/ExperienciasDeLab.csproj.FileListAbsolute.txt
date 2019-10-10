@@ -1,0 +1,11 @@
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\bin\Debug\netcoreapp2.1\ExperienciasDeLab.deps.json
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\bin\Debug\netcoreapp2.1\ExperienciasDeLab.runtimeconfig.json
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\bin\Debug\netcoreapp2.1\ExperienciasDeLab.runtimeconfig.dev.json
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\bin\Debug\netcoreapp2.1\ExperienciasDeLab.dll
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\bin\Debug\netcoreapp2.1\ExperienciasDeLab.pdb
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\obj\Debug\netcoreapp2.1\ExperienciasDeLab.csprojAssemblyReference.cache
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\obj\Debug\netcoreapp2.1\ExperienciasDeLab.csproj.CoreCompileInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\obj\Debug\netcoreapp2.1\ExperienciasDeLab.AssemblyInfoInputs.cache
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\obj\Debug\netcoreapp2.1\ExperienciasDeLab.AssemblyInfo.cs
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\obj\Debug\netcoreapp2.1\ExperienciasDeLab.dll
+C:\Users\rafa_\Desktop\C#\Programas\ExperienciasDeLab\ExperienciasDeLab\obj\Debug\netcoreapp2.1\ExperienciasDeLab.pdb
